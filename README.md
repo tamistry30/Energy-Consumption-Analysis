@@ -1,2 +1,2 @@
 # Energy-Consumption-Analysis
-A data science project analyzing residential energy usage using XGBoost and ARIMA.
+A collaborative data science project using XGBoost and ARIMA to predict hourly residential energy usage and uncover strategies to reduce peak demand. [Live Shiny App](https://cdvtst-esha-alva.shinyapps.io/EnergyConsumption/)
